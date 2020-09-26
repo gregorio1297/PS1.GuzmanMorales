@@ -7,7 +7,7 @@ body{
 
 .bienve{
     margin-top: 22%;
-    margin-left: 35%;
+    margin-left: 34%;
 }
 
 .bienve>h1{
@@ -25,7 +25,7 @@ body{
     padding: 10px 30px;    /* PARA EL FONDO */
     font-size: x-large;
     font-weight: 900;
-    margin-left: 8.7em;
+    margin-left: 8.9em;
 }
 
 .bienve>a:hover{
