@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../IMGS/pag1.png);
+    background-size: cover; 
+}
+
+.bienve{
+    margin-top: 22%;
+    margin-left: 35%;
+}
+
+.bienve>h1{
+    font-family: 'Epilogue', sans-serif;
+    color: white;
+    font-size: 300%;
+    font-weight: 100;
+}
+
+.bienve>a{
+    font-family: 'Epilogue', sans-serif;
+    background-color: white;
+    color: dimgray;
+    text-decoration: none; /* QUITA LA RAYITA */
+    padding: 10px 30px;    /* PARA EL FONDO */
+    font-size: x-large;
+    font-weight: 900;
+    margin-left: 8.7em;
+}
+
+.bienve>a:hover{
+    padding: 10px 30px; 
+    background-color: deepskyblue;
+}
