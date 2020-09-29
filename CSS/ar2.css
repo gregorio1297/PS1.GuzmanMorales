@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+header{
+    background-color: black;
+    width: 100%;
+    height: 60px;
+}
+
+footer{
+    background-color: black;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    height: 30px;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+h1{
+    padding-top: 0.5px;
+    padding-left: 25px;
+}
+
+.texto-log{
+    float: left;
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+}
+
+.linksini{
+    float: right;
+}
+
+
+.redes{
+    padding-top: 15px;
+    max-width: 35px;
+    padding-right: 1em;
+}
+
+.otras{
+    font-family: 'Epilogue', sans-serif;
+    padding-top: 1em;
+    padding-right: 2.5em;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+footer>p{
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+}
