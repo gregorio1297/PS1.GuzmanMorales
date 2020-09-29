@@ -58,3 +58,42 @@ footer>p{
     color: white;
     font-family: 'Epilogue', sans-serif;
 }
+
+.imgart{
+    padding-top: 0em;
+    padding-left: 5em;
+    height: 300px;
+    width: 50%;
+}
+
+.espacio{
+    background-color: white;
+    width: 100%;
+    height: 200px;
+}
+
+.left{
+    float: left;
+}
+
+
+section{
+    width: 100%;
+    background-color: white;
+    height: 400px;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.texto1{
+    margin-top: -20em;
+    padding-left: 40em;
+    width: 100%;
+    height: 30px;
+    color: black;
+    text-align: justify;
+    font-family: 'Epilogue', sans-serif;
+    
+}
