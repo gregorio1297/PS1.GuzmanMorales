@@ -5,13 +5,13 @@ body{
 }
 
 header{
-    background-color: gray;
+    background-color: black;
     width: 100%;
     height: 60px;
 }
 
 footer{
-    background-color: gray;
+    background-color: black;
     left: 0;
     right: 0;
     bottom: 0;
@@ -78,11 +78,64 @@ footer>p{
     padding-top: 4em;
 }
 
-.articulos{
+.left{
     float: left;
-    background-image: url(../IMGS/ARTI.PNG);
-    width: 100%;
-    height: 350px;
-    background-repeat: no-repeat;
-    background-position: center;
 }
+
+section{
+    background-color: black;
+    width: 20%;
+    height: 20%;
+    margin-left: 10.5em;
+    margin-top: 2.5em;
+}
+
+.imgart1{
+    width: 40%;
+    height: 100px;
+    padding-left: 12em;
+    background-image: url(../IMGS/intel.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.imgart2{
+    width: 40%;
+    height: 100px;
+    padding-left: 12em;
+    background-image: url(../IMGS/PS5.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.imgart3{
+    width: 40%;
+    height: 100px;
+    padding-left: 12em;
+    background-image: url(../IMGS/opera.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.texto{
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+    text-align: center;
+}
+
+.titart{
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+    text-align: center;
+}
+
+.linko{
+    font-size: 25px;
+    color: white;
+    padding-left: 4.8em;
+}
+
+
