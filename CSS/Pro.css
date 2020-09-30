@@ -58,3 +58,31 @@ footer>p{
     color: white;
     font-family: 'Epilogue', sans-serif;
 }
+
+.imgsec{
+    float: left;
+    width: 14%;
+    height: 10%;
+    margin-top: 1em;
+    margin-right: 7%;
+    margin-bottom: 30px;
+    margin-left: -10px;
+}
+
+.imgsec2{
+    float: left;
+    padding-left: 8em;
+    margin-left: -10px;
+}
+
+
+.imgpro{
+    height: 50%;
+    width: 100%;
+}
+
+.textopro{
+    font-family: 'Epilogue', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
