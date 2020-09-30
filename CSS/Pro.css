@@ -5,13 +5,13 @@ body{
 }
 
 header{
-    background-color: deepskyblue;
+    background-color: black;
     width: 100%;
     height: 60px;
 }
 
 footer{
-    background-color: blue;
+    background-color: black;
     left: 0;
     right: 0;
     bottom: 0;
