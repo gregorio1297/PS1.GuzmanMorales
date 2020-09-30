@@ -65,27 +65,50 @@ footer>p{
     height: 200px;
 }
 
+h2{
+    font-family: 'Epilogue', sans-serif;
+    font-size: 400%;
+    text-align: center;
+    padding-left: 2em;
+
+}
+
+.muchotexto{
+    font-family: 'Epilogue', sans-serif;
+    font-size: x-large;
+    text-align: center;
+    padding-left: 5em;
+}
+
 .left{
     float: left;
 }
 
 
-section{
-    width: 100%;
-    background-color: white;
-    height: 400px;
-}
-
-.centrado{
-    text-align: center;
-}
-
 .texto{
-    padding-left: 20em;
-    width: 100%;
-    height: 30px;
+    float: right;
+    padding-top: 2em;
+    padding-right: 14em;
+    background-color: white;
+    margin-top: -2.5em;
+    width: 20%;
+    height: 50%;
     color: black;
-    text-align: justify;
+    text-align: center;
     font-family: 'Epilogue', sans-serif;
+    font-size: 150%;
     
 }
+
+.texto>form>p>a{
+
+    font-family: 'Epilogue', sans-serif;
+    background-color: black;
+    color: white;
+    text-decoration: none; /* QUITA LA RAYITA */
+    padding: 10px 30px;    /* PARA EL FONDO */
+    font-size: x-large;
+    font-weight: 900;
+    
+}
+
